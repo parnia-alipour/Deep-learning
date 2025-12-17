@@ -1,4 +1,4 @@
-['image'](https://github.com/parnia-alipour/Deep-learning/blob/master/ai.png?raw=true)
+!['image'](https://github.com/parnia-alipour/Deep-learning/blob/master/ai.png?raw=true)
 
 # Artificial intelligence is taking over the whole world!!!!! 🧠 
 
