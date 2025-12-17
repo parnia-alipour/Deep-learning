@@ -16,6 +16,33 @@ In recent years, artificial intelligence has made incredible progress in every s
 * 2020 onwards: The emergence of large language models such as **ChatGPT** and image generation systems such as DALL·E brought artificial intelligence into mainstream everyday life.
 
 #### We in this technology progress are indebted to Mr. Alan Turing (gave the initial idea of artificial intelligence), John McCarthy (father of artificial intelligence and organizer of the Dartmouth Conference 1956), and in the field of deep learning Geoffrey Hinton who is known as the Godfather of AI.
+Alan Turing:
+<p align="center">
+<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/he.png?raw=true" width="500">
+</p>
+
+
+<div align="right">
+John McCarthy:
+<br>
+<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/How%20John%20McCarthy%20Sh.png?raw=true" width="500">
+</div>
+
+
+
+
+<div align="Left">
+John McCarthy:
+<br>
+<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/he2.jpg?raw=true" width="500">
+</div>
+
+
+
+
+
+
+
 # About Deep Learning
 
 Deep Learning is a subfield of Machine Learning that uses artificial neural networks with many layers to automatically learn complex patterns from data. This method is very effective and powerful for achieving high scores in models. **However,it should be noted that deep learning does not always get the highest score; sometimes one of the classical machine learning algorithms may achieve evaluation metrics higher than the deep learning model we developed.**
