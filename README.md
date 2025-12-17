@@ -16,7 +16,7 @@ In recent years, artificial intelligence has made incredible progress in every s
 * 2020 onwards: The emergence of large language models such as **ChatGPT** and image generation systems such as DALL·E brought artificial intelligence into mainstream everyday life.
 
 #### We in this technology progress are indebted to Mr. Alan Turing (gave the initial idea of artificial intelligence), John McCarthy (father of artificial intelligence and organizer of the Dartmouth Conference 1956), and in the field of deep learning Geoffrey Hinton who is known as the Godfather of AI.
-Alan Turing:
+Geoffrey Hinton:
 <p align="center">
 <img src="https://github.com/parnia-alipour/Deep-learning/blob/master/he.png?raw=true" width="500">
 </p>
@@ -32,7 +32,7 @@ John McCarthy:
 
 
 <div align="Left">
-John McCarthy:
+Alan Turing:
 <br>
 <img src="https://github.com/parnia-alipour/Deep-learning/blob/master/he2.jpg?raw=true" width="500">
 </div>
