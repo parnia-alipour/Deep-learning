@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/parnia-alipour/Deep-learning/blob/master/ai.png?raw=true" width="300" style="border-radius:50%;">
-</p>
+['image'](https://github.com/parnia-alipour/Deep-learning/blob/master/ai.png?raw=true)
 
 # Artificial intelligence is taking over the whole world!!!!! 🧠 
 
