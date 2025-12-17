@@ -1,0 +1,20 @@
+<p align="center">
+  <img src="https://github.com/parnia-alipour/Deep-learning/blob/master/ai.png?raw=true" width="300" style="border-radius:50%;">
+</p>
+
+# Artificial intelligence is taking over the whole world!!!!! 🧠 
+
+---
+
+In recent years, artificial intelligence has made incredible progress in every single field and is becoming more advanced day by day, to the point that it is predicted that artificial intelligence will replace many jobs. Artificial intelligence as a modern scientific field was introduced in 1956 at the Dartmouth Conference. Before that, ideas about artificial intelligent beings existed in philosophy and mythology, but from the 1950s onwards it seriously entered computer science.
+*	Ancient times: In Greek mythology and ancient stories, humans were always thinking about creating artificial intelligent beings.
+* 	1950: Alan Turing wrote the famous paper Computing Machinery and Intelligence and asked: **Can machines think?**
+* 	1956: The Dartmouth Conference in the United States was held; this event is recognized as the official birth of the field of artificial intelligence.
+* 	1960s–1970s: The emergence of the first AI programs such as **ELIZA** (an early chatbot) and the robot Shakey.
+* 	1980s–1990s: Expert systems and then the return of neural networks to the scene.
+* 	1997: **IBM’s** computer Deep Blue managed to defeat the world chess champion, Garry Kasparov.
+* 	2010s: Deep Learning with models such as AlexNet and later GPTs brought artificial intelligence into a new era.
+* 2020 onwards: The emergence of large language models such as **ChatGPT** and image generation systems such as DALL·E brought artificial intelligence into mainstream everyday life.
+
+#### We in this technology progress are indebted to Mr. Alan Turing (gave the initial idea of artificial intelligence), John McCarthy (father of artificial intelligence and organizer of the Dartmouth Conference 1956), and in the field of deep learning Geoffrey Hinton who is known as the Godfather of AI.
+
