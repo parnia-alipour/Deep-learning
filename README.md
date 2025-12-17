@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/ai.png?raw=true" width="700">
+<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/ai.png?raw=true" width="600">
 
 # Artificial intelligence is taking over the whole world!!!!! 🧠 
 
@@ -34,7 +34,7 @@ John McCarthy:
 <div align="Left">
 Alan Turing:
 <br>
-<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/he2.jpg?raw=true" width="500">
+<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/he2.jpg?raw=true" width="400">
 </div>
 
 
