@@ -1,3 +1,10 @@
+
+### The training image datasets for the Cat vs Dog classification project are not complete in this repository due to GitHub’s file size limitations. Similarly, the image datasets for lung disease detection and the data for house price prediction could not be uploaded here for the same reason.
+### If you need access to these datasets, please message me on Telegram.
+
+
+___
+
 <p align="center">
 
 <img src="https://github.com/parnia-alipour/Deep-learning/blob/master/image/ai.png?raw=true" width="600">
