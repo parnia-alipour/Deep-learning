@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/ai.png?raw=true" width="700">
+
+<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/image/ai.png?raw=true" width="600">
 
 # Artificial intelligence is taking over the whole world!!!!! 🧠 
 
@@ -18,14 +19,14 @@ In recent years, artificial intelligence has made incredible progress in every s
 #### We in this technology progress are indebted to Mr. Alan Turing (gave the initial idea of artificial intelligence), John McCarthy (father of artificial intelligence and organizer of the Dartmouth Conference 1956), and in the field of deep learning Geoffrey Hinton who is known as the Godfather of AI.
 Geoffrey Hinton:
 <p align="center">
-<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/he.png?raw=true" width="500">
+<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/image/he.png?raw=true" width="500">
 </p>
 
 
 <div align="right">
 John McCarthy:
 <br>
-<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/How%20John%20McCarthy%20Sh.png?raw=true" width="500">
+<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/image/How%20John%20McCarthy%20Sh.png?raw=true" width="500">
 </div>
 
 
@@ -34,7 +35,7 @@ John McCarthy:
 <div align="Left">
 Alan Turing:
 <br>
-<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/he2.jpg?raw=true" width="500">
+<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/image/he2.jpg?raw=true" width="400">
 </div>
 
 
@@ -49,6 +50,7 @@ Deep Learning is a subfield of Machine Learning that uses artificial neural netw
 Deep learning works with neurons, also known as perceptron
 
 <p align="center">
-<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/ai2.png?raw=true" width="500">
+
+<img src="https://github.com/parnia-alipour/Deep-learning/blob/master/image/ai2.png?raw=true" width="500">
 </p>
 
