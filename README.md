@@ -2,6 +2,21 @@
 ### The training image datasets for the Cat vs Dog classification project are not complete in this repository due to GitHub’s file size limitations. Similarly, the image datasets for lung disease detection and the data for house price prediction could not be uploaded here for the same reason.
 ### If you need access to these datasets, please message me on Telegram.
 
+---
+## How you can use my AI models?:
+
+1. **copy the Lab codes and paste them into a separate Python file**
+2. **remove all plotting code and remove all visualization commands (`plt.show()`, `plt.imshow()`, `plt.figure()`, `etc.`)**
+3. **load the saved model and use `load_model()` to load your trained model file:**
+```python
+
+from tensorflow.keras.models import load_model
+model=load_model("name_AI.keras",compile=False)
+
+```
+4. **apply a `for` or `while` loop to the code so you can test multiple times and get results**
+
+---
 ## And now, the projects:
 
 A small piece of code to better understand the concept of deep learning===[click](https://github.com/parnia-alipour/Deep-learning/blob/master/1_Perceptron.ipynb)
