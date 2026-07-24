@@ -3,11 +3,21 @@
 ### If you need access to these datasets, please message me on Telegram.
 
 ---
-## How you can use my AI models?:
 
-1. **copy the Lab codes and paste them into a separate Python file**
-2. **remove all plotting code and remove all visualization commands (`plt.show()`, `plt.imshow()`, `plt.figure()`, `etc.`)**
-3. **load the saved model and use `load_model()` to load your trained model file:**
+## How you can use my AI models and labs?:
+
+1. **after training is completed in the labs, copy and paste the code into a Python file**
+
+2. **it's preferable to keep all the code as is, except for removing model.fit()**
+
+3. **make sure you've saved your model,load your saved model using `load_model()`:**
+```python
+
+from tensorflow.keras.models import load_model
+model=load_model("name_AI.keras",compile=False)
+
+```
+4. **apply a `for` or `while` loop to the code so you can test multiple times and get results**
 ```python
 
 from tensorflow.keras.models import load_model
