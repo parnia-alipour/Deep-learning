@@ -18,13 +18,6 @@ model=load_model("name_AI.keras",compile=False)
 
 ```
 4. **apply a `for` or `while` loop to the code so you can test multiple times and get results**
-```python
-
-from tensorflow.keras.models import load_model
-model=load_model("name_AI.keras",compile=False)
-
-```
-4. **apply a `for` or `while` loop to the code so you can test multiple times and get results**
 
 ---
 ## And now, the projects:
